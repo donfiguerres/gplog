@@ -1,2 +1,4 @@
-# olog
-OmniLog
+# ulog
+Universal Logging Utility
+
+
